@@ -1,4 +1,4 @@
- #Weather App
+## Weather App
 
 A simple weather application that allows users to search for current weather information by city name.
 
